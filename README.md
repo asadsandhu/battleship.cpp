@@ -1,5 +1,3 @@
----
-
 # 🚀 Battle Ship – A Console-Based Shooting Game  
 
 ## 📌 Overview  
